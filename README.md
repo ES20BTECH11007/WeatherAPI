@@ -1,0 +1,1 @@
+The project helps us to fetch details of weather conditions of a location provided as input. It fetches the weather details from OpenWeatherMap.org(an open source weather API) using fetch API request.
